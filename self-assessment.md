@@ -48,6 +48,12 @@ Together, these artifacts represent the progress I have made in software design,
 
 Completing this ePortfolio has helped me recognize both the skills I have developed and the areas where I want to continue growing. I know that entering the computer science field will require continued learning, but the experience I gained throughout this program has given me a stronger foundation for taking on new technologies and unfamiliar problems. I feel better prepared to approach software development with patience, attention to detail, and a willingness to improve my work through testing, feedback, and continued practice.
 
+## Download Self Assessment
+
+A Word document version of my Professional Self Assessment is also available below.
+
+[Download Professional Self Assessment](documents/Professional-Self-Assessment.docx)
+
 ---
 
 [← Back to Portfolio](README.md)
