@@ -4,9 +4,7 @@
 
 [Watch my CS 499 Code Review](https://youtu.be/l5wo9Bjbo3M)
 
-
-
-## Code Review
+## Code Review Analysis
 
 As part of my CS 499 capstone, I completed a code review of the original artifacts selected for enhancement. The purpose of the review was to examine the existing functionality, identify areas that could be improved, and explain the enhancements I planned to complete during the capstone.
 
