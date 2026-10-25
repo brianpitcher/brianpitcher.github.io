@@ -6,7 +6,7 @@
 
 For my Algorithms and Data Structures enhancement, I used the same CS 320 project that I enhanced for Software Design and Engineering. This time, I focused on how the application stores, searches, and organizes contacts, tasks, and appointments.
 
-The project uses `HashMap` collections to store each type of record. Each record has a unique ID that is used as the key, allowing the application to quickly retrieve a specific contact, task, or appointment when the ID is known.
+The project uses HashMap collections to store each type of record. Each record has a unique ID that is used as the key, allowing the application to quickly retrieve a specific contact, task, or appointment when the ID is known.
 
 Although this worked well for direct ID based access, the original application provided limited ways to find or organize records when the user did not already know the ID.
 
@@ -14,11 +14,11 @@ Although this worked well for direct ID based access, the original application p
 
 For Enhancement Two, I expanded the application by adding search and sorting functionality.
 
-The existing `HashMap` collections were kept because they already worked well for retrieving records by their unique IDs. Instead of replacing the existing data structure, I added new algorithms that work with the records stored inside it.
+The existing HashMap collections were kept because they already worked well for retrieving records by their unique IDs. Instead of replacing the existing data structure, I added new algorithms that work with the records stored inside it.
 
 Search operations examine the stored records and return a list of matches based on information entered by the user. This gives the user additional ways to find information without requiring the exact record ID.
 
-I also added sorting operations that convert the values stored in the `HashMap` into a `List` that can be ordered using Java collection tools.
+I also added sorting operations that convert the values stored in the HashMap into a List that can be ordered using Java collection tools.
 
 The completed enhancement allows:
 
@@ -34,7 +34,7 @@ These changes expanded the usefulness of the existing data structures while keep
 This enhancement demonstrates skills in:
 
 - Java collections
-- `HashMap` and `List` data structures
+- HashMap and List data structures
 - Searching through collections
 - Sorting records
 - Comparing and organizing data
@@ -42,7 +42,7 @@ This enhancement demonstrates skills in:
 - Testing and debugging
 - Evaluating tradeoffs in an existing solution
 
-The enhancement primarily supports Course Outcomes 3 and 4. I evaluated the existing data structure and decided that replacing the `HashMap` was unnecessary because it already worked well for direct ID access. Instead, I expanded the application by adding algorithms that provide additional ways to search and organize the stored information.
+The enhancement primarily supports Course Outcomes 3 and 4. I evaluated the existing data structure and decided that replacing the HashMap was unnecessary because it already worked well for direct ID access. Instead, I expanded the application by adding algorithms that provide additional ways to search and organize the stored information.
 
 ## Original and Enhanced Artifacts
 
