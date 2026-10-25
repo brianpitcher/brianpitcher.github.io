@@ -37,7 +37,7 @@ The enhancement primarily supports Course Outcomes 3 and 4. It required me to ev
 
 The original artifact shows the CS 320 project before the capstone enhancements were completed.
 
-[Download the Original CS 320 Artifact](artifacts/software-design/Original_Artifact.zip)
+[Download the Original CS 320 Artifact](artifacts/software-design/OriginalArtifact.zip)
 
 ### Enhanced Artifact
 
