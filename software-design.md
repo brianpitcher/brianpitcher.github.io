@@ -37,13 +37,13 @@ The enhancement primarily supports Course Outcomes 3 and 4. It required me to ev
 
 The original artifact shows the CS 320 project before the capstone enhancements were completed.
 
-[Download the Original CS 320 Artifact](artifacts/software-design/Original Artifact.zip/)
+[Download the Original CS 320 Artifact](artifacts/software-design/Original Artifact.zip)
 
 ### Enhanced Artifact
 
 The enhanced artifact contains the completed Software Design and Engineering enhancement, including the integrated application used to manage contacts, tasks, and appointments.
 
-[Download Enhancement One](artifacts/software-design/EnhancementOne.zip/)
+[Download Enhancement One](artifacts/software-design/EnhancementOne.zip)
 
 ## Enhancement Narrative
 
