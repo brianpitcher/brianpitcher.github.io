@@ -49,7 +49,7 @@ The enhanced artifact contains the completed Software Design and Engineering enh
 
 The Enhancement One narrative explains why I selected this artifact, the changes I made, the challenges I encountered, what I learned during the enhancement process, and how the completed work aligns with the CS 499 course outcomes.
 
-[Download the Enhancement One Narrative](documents/Enhancement-One-Narrative.docx)
+[Download Enhancement One Narrative](documents/Enhancement-One-Narrative.docx)
 
 ---
 
