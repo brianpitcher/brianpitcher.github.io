@@ -4,9 +4,9 @@
 
 ## Artifact Overview
 
-For my Databases enhancement, I selected my Animal Shelter Dashboard and MongoDB CRUD project from CS 340: Client/Server Development. The project was developed for a fictional organization called Grazioso Salvare and was designed to help identify animals that could be candidates for different types of search and rescue training.
+For my Databases enhancement, I selected my Animal Shelter Dashboard and MongoDB CRUD project from CS 340: Client/Server Development. The project was developed for an organization called Grazioso Salvare and was designed to help identify animals that could be candidates for different types of search and rescue training.
 
-The original project uses Python, MongoDB, Pandas, and the Dash framework. It contains an `AnimalShelterCRUD` class for communicating with MongoDB and an interactive dashboard that displays animal shelter records in a table, chart, and geographical map.
+The original project uses Python, MongoDB, Pandas, and the Dash framework. It contains an AnimalShelterCRUD class for communicating with MongoDB and an interactive dashboard that displays animal shelter records in a table, chart, and geographical map.
 
 Although the original project included MongoDB, the dashboard still loaded the animal shelter dataset directly from a CSV file into Pandas and performed most of its filtering on that local data. This meant the database and dashboard existed in the same project but were not fully integrated.
 
@@ -16,7 +16,7 @@ For Enhancement Three, I redesigned the way data moves through the application s
 
 I added a database loading program that imports the animal shelter CSV data into MongoDB. The loader checks whether the database already contains records before performing the import so that running it again does not create duplicate records.
 
-The dashboard was then changed so that user selections are converted into MongoDB query conditions and sent through the `AnimalShelterCRUD` class. Instead of loading the complete CSV file and applying the main search filters locally, the dashboard requests the matching records from MongoDB.
+The dashboard was then changed so that user selections are converted into MongoDB query conditions and sent through the AnimalShelterCRUD class. Instead of loading the complete CSV file and applying the main search filters locally, the dashboard requests the matching records from MongoDB.
 
 The original rescue categories were preserved:
 
