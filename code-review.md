@@ -2,9 +2,9 @@
 
 ## Watch the Code Review
 
-[Watch my CS 499 Code Review](video link goes here)
+[Watch my CS 499 Code Review](https://youtu.be/l5wo9Bjbo3M)
 
----
+
 
 ## Code Review
 
